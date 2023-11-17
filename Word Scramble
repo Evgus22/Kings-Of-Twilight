@@ -18,7 +18,7 @@ guess = input("Your guess: ").lower()
 
 if guess == word:
 print("Correct!")
-score += 1
+score += 11
 else:
 print("Incorrect. The correct answer is:", word)
 
