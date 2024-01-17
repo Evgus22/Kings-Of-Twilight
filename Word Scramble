@@ -2,7 +2,7 @@ import random
 
 def word_scramble_game():
 words = ["python", "jumble", "easy", "difficult", "answer", "xylophone"]
-random.shuffle(words) # 2202320
+random.shuffle(words) # 22022320
 score = 0
 
 print("Welcome to the Word Scramble Game!")
